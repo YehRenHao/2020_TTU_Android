@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hw2</string>
+    <string name="InputHint">請猜一個介於1~100之數字: </string>
+    <string name="GuessHint">你猜測的結果將顯示於此!</string>
+    <string name="Restart">在玩一次</string>
+    <string name="Confirm">猜測</string>
+
+</resources>

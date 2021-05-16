@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hw3-new</string>
+    <string name="hint">請選擇轉換單位在輸入數值</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="temperature_array">
+        <item>攝氏(C)</item>
+        <item>華氏(F)</item>
+        <item>絕對溫度(K)</item>
+    </array>>
+</resources>

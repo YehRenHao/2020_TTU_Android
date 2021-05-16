@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="unit">
+        <item>長度</item>
+        <item>面積</item>
+    </array>
+</resources>

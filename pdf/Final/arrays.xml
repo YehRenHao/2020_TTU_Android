@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency">
+        <item>USD(美金)</item>
+        <item>HKD(港幣)</item>
+        <item>GBP(英鎊)</item>
+        <item>AUD(澳幣)</item>
+        <item>CAD(加拿大幣)</item>
+        <item>SGD(新加坡幣)</item>
+        <item>CHF(瑞士法郎)</item>
+        <item>JPY(日圓)</item>
+        <item>ZAR(南非幣)</item>
+        <item>SEK(瑞典幣)</item>
+        <item>NZD(紐元)</item>
+        <item>THB(泰幣)</item>
+        <item>PHP(菲國比索)</item>
+        <item>IDR(印尼幣)</item>
+        <item>EUR(歐元)</item>
+        <item>KRW(韓元)</item>
+        <item>VND(越南盾)</item>
+        <item>MYR(馬來幣)</item>
+        <item>CNY(人民幣)</item>
+    </string-array>
+	
+	<string-array name="rate619">
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>1.7</item>
+        <item>1.8</item>
+        <item>1.9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+    </string-array>
+		<string-array name="rate620">
+        <item>2.1</item>
+        <item>2.2</item>
+        <item>2.3</item>
+        <item>2.4</item>
+        <item>2.5</item>
+        <item>2.6</item>
+        <item>2.7</item>
+        <item>2.8</item>
+        <item>2.9</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+    </string-array>
+	<string-array name="rate621">
+        <item>3.1</item>
+        <item>3.2</item>
+        <item>3.3</item>
+        <item>3.4</item>
+        <item>3.5</item>
+        <item>3.6</item>
+        <item>3.7</item>
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+    </string-array>
+	
+</resources>

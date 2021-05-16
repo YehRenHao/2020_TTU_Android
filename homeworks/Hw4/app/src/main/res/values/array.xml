@@ -1,0 +1,48 @@
+<resources>
+
+    <string-array name="TC">
+        <item>魔羯座</item>
+        <item>水瓶座</item>
+        <item>双魚座</item>
+        <item>牡羊座</item>
+        <item>金牛座</item>
+        <item>双子座</item>
+        <item>巨蟹座</item>
+        <item>獅子座</item>
+        <item>處女座</item>
+        <item>天秤座</item>
+        <item>天蠍座</item>
+        <item>射手座</item>
+    </string-array>
+
+    <string-array name="ENG">
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+    </string-array>
+
+    <string-array name="DATE">
+        <item>12/22 ~ 1/19</item>
+        <item>1/20 ~ 2/18</item>
+        <item>2/19 ~ 3/20</item>
+        <item>3/21 ~ 4/19</item>
+        <item>4/20 ~ 5/20</item>
+        <item>5/21 ~ 6/20</item>
+        <item>6/21 ~ 7/22</item>
+        <item>7/23 ~ 8/22</item>
+        <item>8/23 ~ 9/22</item>
+        <item>9/23 ~ 10/22</item>
+        <item>10/23 ~ 11/21</item>
+        <item>11/22 ~ 12/21</item>
+    </string-array>
+
+</resources>

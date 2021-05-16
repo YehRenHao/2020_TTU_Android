@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">I5630Quiz200413</string>
+    <string name="category">請選擇類別：</string>
+    <string name="ft2in">英呎=>英吋</string>
+    <string name="ft2yd">英呎=>碼</string>
+    <string name="in2ft">英吋=>英呎</string>
+    <string name="in2yd">英吋=>碼</string>
+    <string name="yd2ft">碼=>英呎</string>
+    <string name="yd2in">碼=>英吋</string>
+    <string name="input">輸入值</string>
+	<!-- more -->
+	
+</resources>

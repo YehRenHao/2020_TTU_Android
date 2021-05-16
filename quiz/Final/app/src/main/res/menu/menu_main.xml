@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.i5630fnl_i3b47.MainActivity">
+    <item
+        android:id="@+id/clrAll"
+        android:orderInCategory="100"
+        android:title="全部清除"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addAll"
+        android:orderInCategory="100"
+        android:title="加入所有幣別"
+        app:showAsAction="never" />
+</menu>
